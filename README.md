@@ -1,10 +1,10 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: An AI Enabled System for Road Sign Detection and Classification
 
 ## Team Members:
-1. Khushi Agnihotri
-2. Devansh Vashistha
-3. Divyansh Goel
-4. Naman Yadav
+1. Khushi Agnihotri (2100290130087) CSE 8-A
+2. Devansh Vashistha (2100290100051) CSE 8-A
+4. Divyansh Goel (2100290100060) CSE 8-A
+5. Naman Yadav (2100290100104) CSE 8-B
 
 ## Steps for Execution:
 1. [STEP 1]
