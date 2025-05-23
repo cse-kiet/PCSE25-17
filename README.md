@@ -7,9 +7,14 @@
 5. Naman Yadav (2100290100104) CSE 8-B
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. Clone the project repository and navigate to the root directory of the project.
+2. Change into the Detection directory where the implementation notebooks and scripts are located.
+3. Open the test2.py file. This notebook contains all the necessary steps to load the model and process live input.
+4. If the YOLOv8 repository is not already available locally, clone it to enable model loading and training capabilities.
+5. Load the custom-trained weights file (best.pt) for higher accuracy on specific road signs.
+6. Update the input source on the basis of your machine's internal camera or if you are using an external camera.
+7. Execute the detection cells in the notebook to start real-time road sign recognition via your system’s camera or an external camera.
+8. The file automatically uses the pyttsx3 library to convert recognized road signs into voice output, providing an accessible user experience.
 
 ## Checklist:
 1. Final Project Report
